@@ -1,4 +1,4 @@
-## Design Patterns Examples in TypeScript
+## Design Patterns Examples in TypeScript / Bun
 
 This repo contains some software design patterns exaples in TypeScript.
 

@@ -1,0 +1,16 @@
+{
+  "name": "design-patterns",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "scripts": {
+    "start:b2b-product-scraper": "bun run creational-patterns/factory-method/b2b-product-scraper/index.ts",
+    "start:hotel-review-scraper": "bun run creational-patterns/factory-method/hotel-review-scraper/index.ts"
+  }
+}
